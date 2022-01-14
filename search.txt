@@ -1,0 +1,6 @@
+svchost.exe
+COM
+N/A
+Directory of c:\Users\talia\AppData\Local\Microsoft\Windows
+Directory of c:\Windows
+Update

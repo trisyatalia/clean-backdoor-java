@@ -1,0 +1,86 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8ECD-D9F3
+
+ Directory of c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1052.1.13\amd64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_93b4a0a1641d085c\f
+
+05/06/2021  17:25             2.977 svchost.exe
+               1 File(s)          2.977 bytes
+
+ Directory of c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1052.1.13\amd64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_93b4a0a1641d085c\r
+
+05/06/2021  17:25             2.978 svchost.exe
+               1 File(s)          2.978 bytes
+
+ Directory of c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1052.1.13\wow64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_9e094af3987dca57\f
+
+05/06/2021  17:25             2.992 svchost.exe
+               1 File(s)          2.992 bytes
+
+ Directory of c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1052.1.13\wow64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_9e094af3987dca57\r
+
+05/06/2021  17:25             3.162 svchost.exe
+               1 File(s)          3.162 bytes
+
+ Directory of c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.985.1.6\amd64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_93b4a0a1641d085c\f
+
+29/04/2021  20:21             2.977 svchost.exe
+               1 File(s)          2.977 bytes
+
+ Directory of c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.985.1.6\amd64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_93b4a0a1641d085c\r
+
+29/04/2021  20:21             2.978 svchost.exe
+               1 File(s)          2.978 bytes
+
+ Directory of c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.985.1.6\wow64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_9e094af3987dca57\f
+
+29/04/2021  20:21             2.992 svchost.exe
+               1 File(s)          2.992 bytes
+
+ Directory of c:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.985.1.6\wow64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_9e094af3987dca57\r
+
+29/04/2021  20:22             3.162 svchost.exe
+               1 File(s)          3.162 bytes
+
+ Directory of c:\Windows\System32
+
+07/05/2021  00:07            57.360 svchost.exe
+               1 File(s)         57.360 bytes
+
+ Directory of c:\Windows\SysWOW64
+
+07/05/2021  00:08            47.016 svchost.exe
+               1 File(s)         47.016 bytes
+
+ Directory of c:\Windows\WinSxS\amd64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_93b4a0a1641d085c
+
+07/05/2021  00:07            57.360 svchost.exe
+               1 File(s)         57.360 bytes
+
+ Directory of c:\Windows\WinSxS\amd64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_93b4a0a1641d085c\f
+
+07/05/2021  00:07             2.977 svchost.exe
+               1 File(s)          2.977 bytes
+
+ Directory of c:\Windows\WinSxS\amd64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_93b4a0a1641d085c\r
+
+07/05/2021  00:07             2.978 svchost.exe
+               1 File(s)          2.978 bytes
+
+ Directory of c:\Windows\WinSxS\wow64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_9e094af3987dca57
+
+07/05/2021  00:08            47.016 svchost.exe
+               1 File(s)         47.016 bytes
+
+ Directory of c:\Windows\WinSxS\wow64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_9e094af3987dca57\f
+
+07/05/2021  00:08             2.992 svchost.exe
+               1 File(s)          2.992 bytes
+
+ Directory of c:\Windows\WinSxS\wow64_microsoft-windows-services-svchost_31bf3856ad364e35_10.0.19041.546_none_9e094af3987dca57\r
+
+07/05/2021  00:08             3.162 svchost.exe
+               1 File(s)          3.162 bytes
+
+     Total Files Listed:
+              16 File(s)        245.079 bytes
+               0 Dir(s)  17.789.276.160 bytes free

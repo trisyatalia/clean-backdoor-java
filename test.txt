@@ -1,0 +1,18 @@
+Process Name,Process ID, Registry Name, Registry Value,Files to Delete
+,,,,Directory of c:\Users\Trisy\AppData\Local\Microsoft\Windows\
+,,,,Directory of c:\Users\Trisy\AppData\Local\Microsoft\Windows\
+,,,,Directory of c:\Users\Trisy\AppData\Local\Microsoft\Windows\
+,,,,c:\Users\Trisy\AppData\Local\Microsoft\Windows\
+,,,,c:\Users\Trisy\AppData\Local\Microsoft\Windows\svchost.exe
+,,,,c:\Users\Trisy\AppData\Local\Microsoft\Windows\svchost.exe
+,,,,c:\Windows\tnnbtib.exe
+,,,,c:\Windows\tnnbtib.exe
+,,,,c:\Windows\tnnbtib.exe
+,,,,c:\Windows\tnnbtib.exe
+,,,,c:\Users\Trisy\AppData\Local\Microsoft\Windows\svchost.exe
+,,,,c:\Windows\tnnbtib.exe
+,,,,c:\Users\Trisy\AppData\Local\Microsoft\Windows\svchost.exe
+
+,,,,\
+
+,,,,\

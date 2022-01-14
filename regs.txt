@@ -1,0 +1,8 @@
+
+HKEY_CURRENT_USER\software\microsoft\windows\currentversion\run
+    OneDrive    REG_SZ    "C:\Users\Trisy\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+    IDMan    REG_SZ    C:\Program Files (x86)\Internet Download Manager\IDMan.exe /onboot
+    BandwidthMeterPro    REG_SZ    C:\bwmeter\BWMeterPro.exe
+    Steam    REG_SZ    "C:\Program Files (x86)\Steam\steam.exe" -silent
+    Spotify Web Helper    REG_SZ    C:\Users\Trisy\AppData\Roaming\Spotify\SpotifyWebHelper.exe --autostart
+
